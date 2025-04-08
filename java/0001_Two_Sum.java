@@ -1,20 +1,7 @@
 import java.util.stream.IntStream;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // int[] list = new int[2];
-        // for (int i = 0; i < nums.length-1; i++) {
-        //     int n = nums[i];
-        //     for (int j = i + 1; j < nums.length; j++) {
-        //         int m = nums[j];
-        //         if (n + m == target) {
-        //             list[0] = i;
-        //             list[1] = j;
-        //             return list;
-        //         }
 
-        //     }
-        // }
-        // return list;
         int[] res = new int[2];
         int[] temp = new int[nums.length];
 

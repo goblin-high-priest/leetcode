@@ -6,7 +6,7 @@
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0005_Longest_Palindromic_Substring.py) | Medium     |
 | 15   | [3Sum](https://leetcode.com/problems/3sum/)                  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0015_3Sum.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0015_3Sum.java), [C](https://github.com/goblin-high-priest/leetcode/blob/master/c/0015_3Sum.c) | Medium     |
 | 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0016_3Sum_Closest.py) | Medium     |
-|      |                                                              |                                                              |            |
+| 18   | [4Sum](https://leetcode.com/problems/4sum/)                  |                                                              | Medium     |
 |      |                                                              |                                                              |            |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2824_Count_Pairs_Whose_Sum_is_Less_than_Target.py) | Easy       |
 

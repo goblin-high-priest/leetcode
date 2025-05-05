@@ -7,6 +7,6 @@
 | 15   | [3Sum](https://leetcode.com/problems/3sum/)                  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0015_3Sum.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0015_3Sum.java), [C](https://github.com/goblin-high-priest/leetcode/blob/master/c/0015_3Sum.c) | Medium     |
 | 16   | [3Sum Closest](https://leetcode.com/problems/3sum-closest/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0016_3Sum_Closest.py) | Medium     |
 | 18   | [4Sum](https://leetcode.com/problems/4sum/)                  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0018_4Sum.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0018_4Sum.java), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0018_4Sum.js) | Medium     |
-| 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) |                                                              | Medium     |
+| 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0611_Valid_Triangle_Number.py) | Medium     |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2824_Count_Pairs_Whose_Sum_is_Less_than_Target.py) | Easy       |
 

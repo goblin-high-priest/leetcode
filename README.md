@@ -11,7 +11,7 @@
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0042_Trapping_Rain_Water.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0042_Trapping_Rain_Water.java) | Hard       |
 | 125  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0125_Valid_Palindrome.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0125_Valid_Palindrome.java) | Easy       |
 | 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0611_Valid_Triangle_Number.py) | Medium     |
-| 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) |                                                              | Medium     |
+| 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2105_Watering_Plants_II.py) | Medium     |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2824_Count_Pairs_Whose_Sum_is_Less_than_Target.py) | Easy       |
 
 

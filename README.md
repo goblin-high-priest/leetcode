@@ -19,7 +19,7 @@
 | 2779 | [Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2779_Maximum_Beauty_of_an_Array_After_Applying_Operation.py) | Medium     |
 | 2824 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2824_Count_Pairs_Whose_Sum_is_Less_than_Target.py) | Easy       |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium     |
-| 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) |                                                              | Medium     |
+| 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.py) | Medium     |
 
 
 

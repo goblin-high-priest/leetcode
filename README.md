@@ -24,6 +24,7 @@
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/1004_Max_Consecutive_Ones_III.py) | Medium     |
 | 1234 | [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/1234_Replace_the_Substring_for_Balanced_String.py) | Medium     |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/1658_Minimum_Operations_to_Reduce_X_to_Zero.py) | Medium     |
+| 1901 | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) |                                                              | Medium     |
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2080_Range_Frequency_Queries.py) | Medium     |
 | 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2105_Watering_Plants_II.py) | Medium     |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2187_Minimum_Time_to_Complete_Trips.py) | Medium     |

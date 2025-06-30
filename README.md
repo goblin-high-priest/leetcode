@@ -57,7 +57,7 @@
 | 2861 | [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2861_Maximum_Number_of_Alloys.py) | Medium     |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium     |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.py) | Medium     |
-| 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) |                                                              | Medium     |
+| 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/3217_Delete_Nodes_From_Linked_List_Present_in_Array.py) | Medium     |
 
 
 

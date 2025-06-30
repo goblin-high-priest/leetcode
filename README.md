@@ -26,7 +26,7 @@
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0153_Find_Minimum_in_Rotated_Sorted_Array.py) | Medium     |
 | 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Medium     |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0162_Find_Peak_Element.py) | Medium     |
-| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |                                                              | Easy       |
+| 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0203_Remove_Linked_List_Elements.py) | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0206_Reverse_Linked_List.py) | Medium     |
 | 209  | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0209_Minimum_Size_Subarray_Sum.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0209_Minimum_Size_Subarray_Sum.java), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0209_Minimum_Size_Subarray_Sum.js) | Medium     |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0234_Palindrome_Linked_List.py) | Easy       |
@@ -57,6 +57,7 @@
 | 2861 | [Maximum Number of Alloys](https://leetcode.com/problems/maximum-number-of-alloys/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2861_Maximum_Number_of_Alloys.py) | Medium     |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium     |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.py) | Medium     |
+| 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) |                                                              | Medium     |
 
 
 

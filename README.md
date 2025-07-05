@@ -19,6 +19,7 @@
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0082_Remove_Duplicates_from_Sorted_List_II.py) | Medium     |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0083_Remove_Duplicates_from_Sorted_List.py) | Easy       |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0092_Reverse_Linked_List_II.py) | Medium     |
+| 100  | [Same Tree](https://leetcode.com/problems/same-tree/)        |                                                              | Easy       |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0104_Maximum_Depth_of_Binary_Tree.py) | Easy       |
 | 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0111_Minimum_Depth_of_Binary_Tree.py) | Easy       |
 | 112  | [Path Sum](https://leetcode.com/problems/path-sum/)          | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0112_Path_Sum.py) | Easy       |

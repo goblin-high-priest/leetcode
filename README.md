@@ -34,6 +34,7 @@
 | 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Medium     |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0162_Find_Peak_Element.py) | Medium     |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0175_Combine_Two_Tables.sql) | Easy       |
+| 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) |                                                              | Medium     |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0199_Binary_Tree_Right_Side_View.py) | Medium     |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0203_Remove_Linked_List_Elements.py) | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0206_Reverse_Linked_List.py) | Medium     |

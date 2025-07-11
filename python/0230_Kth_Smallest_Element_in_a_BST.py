@@ -7,6 +7,7 @@
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
         result = -1
+        
         def dfs(root):
             nonlocal k, result
 

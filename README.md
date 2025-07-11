@@ -39,6 +39,7 @@
 | 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0177_Nth_Highest_Salary.sql) | Medium     |
 | 178  | [Rank Scores](https://leetcode.com/problems/rank-scores/)    | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0178_Rank_Scores.sql) | Medium     |
 | 180  | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0180_Consecutive_Numbers.sql) | Medium     |
+| 184  | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) |                                                              | Medium     |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0199_Binary_Tree_Right_Side_View.py) | Medium     |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0203_Remove_Linked_List_Elements.py) | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0206_Reverse_Linked_List.py) | Medium     |

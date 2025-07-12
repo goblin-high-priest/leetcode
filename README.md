@@ -50,7 +50,7 @@
 | 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0230_Kth_Smallest_Element_in_a_BST.py) | Medium     |
 | 234  | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0234_Palindrome_Linked_List.py) | Easy       |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0237_Delete_Node_in_a_Linked_List.py) | Medium     |
-| 262  | [Trips and Users](https://leetcode.com/problems/trips-and-users/) |                                                              | Hard       |
+| 262  | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0262_Trips_and_Users.sql) | Hard       |
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0275_H-Index_II.py), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0275_H-Index_II.js) | Medium     |
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0445_Add_Two_Numbers_II.py) | Medium     |
 | 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0611_Valid_Triangle_Number.py) | Medium     |

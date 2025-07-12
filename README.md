@@ -23,6 +23,7 @@
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0100_Same_Tree.py) | Easy       |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0101_Symmetric_Tree.py) | Easy       |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0104_Maximum_Depth_of_Binary_Tree.py) | Easy       |
+| 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |                                                              | Medium     |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0110_Balanced_Binary_Tree.py) | Easy       |
 | 111  | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0111_Minimum_Depth_of_Binary_Tree.py) | Easy       |
 | 112  | [Path Sum](https://leetcode.com/problems/path-sum/)          | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0112_Path_Sum.py) | Easy       |

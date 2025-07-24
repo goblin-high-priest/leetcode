@@ -17,7 +17,7 @@
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0042_Trapping_Rain_Water.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0042_Trapping_Rain_Water.java) | Hard       |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0074_Search_a_2D_Matrix.py) | Medium     |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0076_Minimum_Window_Substring.py) | Hard       |
-| 78   | [Subsets](https://leetcode.com/problems/subsets/)            |                                                              | Medium     |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/)            | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0078_Subsets.py) | Medium     |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0082_Remove_Duplicates_from_Sorted_List_II.py) | Medium     |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0083_Remove_Duplicates_from_Sorted_List.py) | Easy       |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0092_Reverse_Linked_List_II.py) | Medium     |

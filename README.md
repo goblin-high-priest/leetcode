@@ -24,6 +24,7 @@
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0082_Remove_Duplicates_from_Sorted_List_II.py) | Medium     |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0083_Remove_Duplicates_from_Sorted_List.py) | Easy       |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0092_Reverse_Linked_List_II.py) | Medium     |
+| 93   | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |                                                              | Medium     |
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0098_Validate_Binary_Search_Tree.py) | Medium     |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0100_Same_Tree.py) | Easy       |
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0101_Symmetric_Tree.py) | Easy       |

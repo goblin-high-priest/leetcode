@@ -17,6 +17,7 @@
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0039_Combination_Sum.py) | Medium     |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0042_Trapping_Rain_Water.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0042_Trapping_Rain_Water.java) | Hard       |
+| 46   | [Permutations](https://leetcode.com/problems/permutations/)  |                                                              | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0074_Search_a_2D_Matrix.py) | Medium     |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0076_Minimum_Window_Substring.py) | Hard       |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0077_Combinations.py) | Medium     |

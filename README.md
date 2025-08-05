@@ -20,7 +20,7 @@
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0046_Permutations.py) | Medium     |
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens/)          | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0051_N-Queens.py) | Hard       |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0052_N-Queens_II.py) | Hard       |
-| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |                                                              | Medium     |
+| 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0064_Minimum_Path_Sum.py) | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0070_Climbing_Stairs.py) | Easy       |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0074_Search_a_2D_Matrix.py) | Medium     |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0076_Minimum_Window_Substring.py) | Hard       |

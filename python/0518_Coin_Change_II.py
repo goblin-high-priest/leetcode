@@ -13,4 +13,3 @@ class Solution:
             return dfs(i - 1, amount) + dfs(i, amount - coins[i])
         
         return dfs(len(coins) - 1, amount)
-      

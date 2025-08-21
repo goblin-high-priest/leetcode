@@ -77,6 +77,7 @@
 | 236  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.py) | Medium     |
 | 237  | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0237_Delete_Node_in_a_Linked_List.py) | Medium     |
 | 262  | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0262_Trips_and_Users.sql) | Hard       |
+| 268  | [Missing Number](https://leetcode.com/problems/missing-number/) |                                                              | Easy       |
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0275_H-Index_II.py), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0275_H-Index_II.js) | Medium     |
 | 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0279_Perfect_Squares.py) | Medium     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0322_Coin_Change.py) | Medium     |

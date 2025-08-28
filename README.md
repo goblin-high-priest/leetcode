@@ -51,7 +51,7 @@
 | 129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0129_Sum_Root_to_Leaf_Numbers.py) | Medium     |
 | 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0131_Palindrome_Partitioning.py) | Medium     |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0133_Clone_Graph.py) | Medium     |
-| 139  | [Word Break](https://leetcode.com/problems/word-break/)      |                                                              | Medium     |
+| 139  | [Word Break](https://leetcode.com/problems/word-break/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0139_Word_Break.py) | Medium     |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0141_Linked_List_Cycle.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0141_Linked_List_Cycle.java) | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0142_Linked_List_Cycle_II.py) | Medium     |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0143_Reorder_List.py) | Medium     |

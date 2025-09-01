@@ -81,7 +81,7 @@
 | 261  | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0261_Graph_Valid_Tree.py) | Medium     |
 | 262  | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0262_Trips_and_Users.sql) | Hard       |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0268_Missing_Number.py) | Easy       |
-| 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) |                                                              | Hard       |
+| 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0269_Alien_Dictionary.py) | Hard       |
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0275_H-Index_II.py), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0275_H-Index_II.js) | Medium     |
 | 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0279_Perfect_Squares.py) | Medium     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0322_Coin_Change.py) | Medium     |

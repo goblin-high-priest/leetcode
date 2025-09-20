@@ -87,6 +87,7 @@
 | 271  | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0271_Encode_and_Decode_Strings.py) | Medium     |
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0275_H-Index_II.py), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0275_H-Index_II.js) | Medium     |
 | 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0279_Perfect_Squares.py) | Medium     |
+| 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |                                                              | Medium     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0322_Coin_Change.py) | Medium     |
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0377_Combination_Sum_IV.py) | Medium     |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0416_Partition_Equal_Subset_Sum.py) | Medium     |

@@ -20,6 +20,7 @@
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0042_Trapping_Rain_Water.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0042_Trapping_Rain_Water.java) | Hard       |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0046_Permutations.py) | Medium     |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0048_Rotate_Image.py) | Medium     |
+| 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |                                                              | Medium     |
 | 51   | [N-Queens](https://leetcode.com/problems/n-queens/)          | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0051_N-Queens.py) | Hard       |
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0052_N-Queens_II.py) | Hard       |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0064_Minimum_Path_Sum.py) | Medium     |

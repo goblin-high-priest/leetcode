@@ -91,6 +91,7 @@
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0377_Combination_Sum_IV.py) | Medium     |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0416_Partition_Equal_Subset_Sum.py) | Medium     |
 | 417  | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0417_Pacific_Atlantic_Water_Flow.py) | Medium     |
+| 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |                                                              | Medium     |
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0445_Add_Two_Numbers_II.py) | Medium     |
 | 494  | [Target Sum](https://leetcode.com/problems/target-sum/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0494_Target_Sum.py) | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0513_Find_Bottom_Left_Tree_Value.py) | Medium     |

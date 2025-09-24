@@ -92,7 +92,7 @@
 | 271  | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0271_Encode_and_Decode_Strings.py) | Medium     |
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0275_H-Index_II.py), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0275_H-Index_II.js) | Medium     |
 | 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0279_Perfect_Squares.py) | Medium     |
-| 295  | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |                                                              | Hard       |
+| 295  | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0295_Find_Median_from_Data_Stream.py) | Hard       |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0300_Longest_Increasing_Subsequence.py) | Medium     |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0322_Coin_Change.py) | Medium     |
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0377_Combination_Sum_IV.py) | Medium     |

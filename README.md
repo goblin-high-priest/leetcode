@@ -25,7 +25,7 @@
 | 52   | [N-Queens II](https://leetcode.com/problems/n-queens-ii/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0052_N-Queens_II.py) | Hard       |
 | 53   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0053_Maximum_Subarray.py) | Medium     |
 | 54   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0054_Spiral_Matrix.py) | Medium     |
-| 55   | [Jump Game](https://leetcode.com/problems/jump-game/)        |                                                              | Medium     |
+| 55   | [Jump Game](https://leetcode.com/problems/jump-game/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0055_Jump_Game.py) | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0064_Minimum_Path_Sum.py) | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0070_Climbing_Stairs.py) | Easy       |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0072_Edit_Distance.py) | Medium     |

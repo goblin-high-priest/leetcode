@@ -28,7 +28,7 @@
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0055_Jump_Game.py) | Medium     |
 | 56   | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0056_Merge_Intervals.py) | Medium     |
 | 57   | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0057_Insert_Interval.py) | Medium     |
-| 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/)  |                                                              | Medium     |
+| 62   | [Unique Paths](https://leetcode.com/problems/unique-paths/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0062_Unique_Paths.py) | Medium     |
 | 64   | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0064_Minimum_Path_Sum.py) | Medium     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0070_Climbing_Stairs.py) | Easy       |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0072_Edit_Distance.py) | Medium     |

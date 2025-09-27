@@ -76,6 +76,7 @@
 | 184  | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0184_Department_Highest_Salary.sql) | Medium     |
 | 185  | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0185_Department_Top_Three_Salaries.sql) | Hard       |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0190_Reverse_Bits.py) | Easy       |
+| 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |                                                              | Easy       |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0198_House_Robber.py) | Medium     |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0199_Binary_Tree_Right_Side_View.py) | Medium     |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0203_Remove_Linked_List_Elements.py) | Easy       |

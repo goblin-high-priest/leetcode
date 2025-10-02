@@ -37,7 +37,7 @@
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0076_Minimum_Window_Substring.py) | Hard       |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0077_Combinations.py) | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/)            | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0078_Subsets.py) | Medium     |
-| 79   | [Word Search](https://leetcode.com/problems/word-search/)    |                                                              | Medium     |
+| 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0079_Word_Search.py) | Medium     |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0082_Remove_Duplicates_from_Sorted_List_II.py) | Medium     |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0083_Remove_Duplicates_from_Sorted_List.py) | Easy       |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0092_Reverse_Linked_List_II.py) | Medium     |

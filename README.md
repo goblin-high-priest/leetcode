@@ -118,11 +118,7 @@
 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0347_Top_K_Frequent_Elements.py) | Medium     |
 | 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0371_Sum_of_Two_Integers.py) | Medium     |
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0377_Combination_Sum_IV.py) | Medium     |
-<<<<<<< HEAD
-| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)    |                                                              | Easy       |
-=======
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0383_Ransom_Note.py) | Easy       |
->>>>>>> 083a584 (0383 finished)
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0416_Partition_Equal_Subset_Sum.py) | Medium     |
 | 417  | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0417_Pacific_Atlantic_Water_Flow.py) | Medium     |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0424_Longest_Repeating_Character_Replacement.py) | Medium     |
@@ -180,6 +176,3 @@
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2958_Length_of_Longest_Subarray_With_at_Most_K_Frequency.py) | Medium     |
 | 2962 | [Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2962_Count_Subarrays_Where_Max_Element_Appears_at_Least_K_Times.py) | Medium     |
 | 3217 | [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/3217_Delete_Nodes_From_Linked_List_Present_in_Array.py) | Medium     |
-
-
-

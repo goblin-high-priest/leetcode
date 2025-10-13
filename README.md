@@ -70,7 +70,7 @@
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0142_Linked_List_Cycle_II.py) | Medium     |
 | 143  | [Reorder List](https://leetcode.com/problems/reorder-list/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0143_Reorder_List.py) | Medium     |
 | 146  | [LRU Cache](https://leetcode.com/problems/lru-cache/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0146_LRU_Cache.py) | Medium     |
-| 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |                                                              | Medium     |
+| 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0150_Evaluate_Reverse_Polish_Notation.py) | Medium     |
 | 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0152_Maximum_Product_Subarray.py) | Medium     |
 | 153  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0153_Find_Minimum_in_Rotated_Sorted_Array.py) | Medium     |
 | 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Medium     |

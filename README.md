@@ -112,6 +112,7 @@
 | 269  | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0269_Alien_Dictionary.py) | Hard       |
 | 271  | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0271_Encode_and_Decode_Strings.py) | Medium     |
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0275_H-Index_II.py), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0275_H-Index_II.js) | Medium     |
+| 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) |                                                              | Easy       |
 | 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0279_Perfect_Squares.py) | Medium     |
 | 295  | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0295_Find_Median_from_Data_Stream.py) | Hard       |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0297_Serialize_and_Deserialize_Binary_Tree.py) | Hard       |

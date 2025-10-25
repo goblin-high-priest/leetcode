@@ -76,7 +76,7 @@
 | 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Medium     |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0155_Min_Stack.py) | Medium     |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0162_Find_Peak_Element.py) | Medium     |
-| 169  | [Majority Element](https://leetcode.com/problems/majority-element/) |                                                              | Easy       |
+| 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0169_Majority_Element.py) | Easy       |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0175_Combine_Two_Tables.sql) | Easy       |
 | 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0176_Second_Highest_Salary.sql) | Medium     |
 | 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0177_Nth_Highest_Salary.sql) | Medium     |

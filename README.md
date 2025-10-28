@@ -35,7 +35,7 @@
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0072_Edit_Distance.py) | Medium     |
 | 73   | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0073_Set_Matrix_Zeroes.py) | Medium     |
 | 74   | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0074_Search_a_2D_Matrix.py) | Medium     |
-| 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)    |                                                              | Medium     |
+| 75   | [Sort Colors](https://leetcode.com/problems/sort-colors/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0075_Sort_Colors.py) | Medium     |
 | 76   | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0076_Minimum_Window_Substring.py) | Hard       |
 | 77   | [Combinations](https://leetcode.com/problems/combinations/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0077_Combinations.py) | Medium     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/)            | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0078_Subsets.py) | Medium     |

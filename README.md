@@ -42,7 +42,7 @@
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0079_Word_Search.py) | Medium     |
 | 82   | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0082_Remove_Duplicates_from_Sorted_List_II.py) | Medium     |
 | 83   | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0083_Remove_Duplicates_from_Sorted_List.py) | Easy       |
-| 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) |                                                              | Hard       |
+| 84   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0084_Largest_Rectangle_in_Histogram.py) | Hard       |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0091_Decode_Ways.py) | Medium     |
 | 92   | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0092_Reverse_Linked_List_II.py) | Medium     |
 | 93   | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0093_Restore_IP_Addresses.py) | Medium     |

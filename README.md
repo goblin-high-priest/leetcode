@@ -145,6 +145,7 @@
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0572_Subtree_of_Another_Tree.py) | Easy       |
 | 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0611_Valid_Triangle_Number.py) | Medium     |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0617_Merge_Two_Binary_Trees.py) | Easy       |
+| 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) |                                                              | Medium     |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0647_Palindromic_Substrings.py) | Medium     |
 | 713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0713_Subarray_Product_Less_Than_K.py) | Medium     |
 | 721  | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0721_Accounts_Merge.py) | Medium     |

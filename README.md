@@ -153,6 +153,7 @@
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0621_Task_Scheduler.py) | Medium     |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0647_Palindromic_Substrings.py) | Medium     |
 | 713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0713_Subarray_Product_Less_Than_K.py) | Medium     |
+| 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |                                                              | Medium     |
 | 721  | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0721_Accounts_Merge.py) | Medium     |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0733_Flood_Fill.py) | Easy       |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0746_Min_Cost_Climbing_Stairs.py) | Easy       |

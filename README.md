@@ -144,6 +144,7 @@
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0445_Add_Two_Numbers_II.py) | Medium     |
 | 494  | [Target Sum](https://leetcode.com/problems/target-sum/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0494_Target_Sum.py) | Medium     |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0513_Find_Bottom_Left_Tree_Value.py) | Medium     |
+| 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) |                                                              | Medium     |
 | 518  | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0518_Coin_Change_II.py) | Medium     |
 | 542  | [01 Matrix](https://leetcode.com/problems/01-matrix/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0542_01_Matrix.py) | Medium     |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0543_Diameter_of_Binary_Tree.py) | Easy       |

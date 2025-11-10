@@ -153,6 +153,7 @@
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0617_Merge_Two_Binary_Trees.py) | Easy       |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0621_Task_Scheduler.py) | Medium     |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0647_Palindromic_Substrings.py) | Medium     |
+| 687  | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) |                                                              | Medium     |
 | 713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0713_Subarray_Product_Less_Than_K.py) | Medium     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py) | Medium     |
 | 721  | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0721_Accounts_Merge.py) | Medium     |

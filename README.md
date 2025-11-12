@@ -8,6 +8,7 @@
 | 6    | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0006_Zigzag_Conversion.py) | Medium     |
 | 7    | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0007_Reverse_Integer.py) | Medium     |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0008_String_to_Integer_(atoi).py) | Medium     |
+| 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |                                                              | Easy       |
 | 10   | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0010_Regular_Expression_Matching.py) | Hard       |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0011_Container_With_Most_Water.py) | Medium     |
 | 15   | [3Sum](https://leetcode.com/problems/3sum/)                  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0015_3Sum.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0015_3Sum.java), [C](https://github.com/goblin-high-priest/leetcode/blob/master/c/0015_3Sum.c) | Medium     |

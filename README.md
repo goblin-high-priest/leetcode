@@ -87,6 +87,7 @@
 | 154  | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0154_Find_Minimum_in_Rotated_Sorted_Array_II.py) | Medium     |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0155_Min_Stack.py) | Medium     |
 | 157  | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0157_Read_N_Characters_Given_Read4.py) | Easy       |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |                                                              | Easy       |
 | 162  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0162_Find_Peak_Element.py) | Medium     |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0169_Majority_Element.py) | Easy       |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0175_Combine_Two_Tables.sql) | Easy       |

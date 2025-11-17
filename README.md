@@ -92,7 +92,7 @@
 | 163  | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0163_Missing_Ranges.py) | Easy       |
 | 168  | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0168_Excel_Sheet_Column_Title.py) | Easy       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0169_Majority_Element.py) | Easy       |
-| 170  | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) |                                                              | Easy       |
+| 170  | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0170_Two_Sum_III_-_Data_structure_design.py) | Easy       |
 | 175  | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0175_Combine_Two_Tables.sql) | Easy       |
 | 176  | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0176_Second_Highest_Salary.sql) | Medium     |
 | 177  | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [PostgreSQL](https://github.com/goblin-high-priest/leetcode/blob/master/postgresql/0177_Nth_Highest_Salary.sql) | Medium     |

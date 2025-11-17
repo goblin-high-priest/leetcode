@@ -108,6 +108,7 @@
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0198_House_Robber.py) | Medium     |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0199_Binary_Tree_Right_Side_View.py) | Medium     |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0200_Number_of_Islands.py) | Medium     |
+| 202  | [Happy Number](https://leetcode.com/problems/happy-number/)  |                                                              | Easy       |
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0203_Remove_Linked_List_Elements.py) | Easy       |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0206_Reverse_Linked_List.py) | Medium     |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0207_Course_Schedule.py) | Medium     |

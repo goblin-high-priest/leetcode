@@ -174,7 +174,7 @@
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py) | Medium     |
 | 721  | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0721_Accounts_Merge.py) | Medium     |
 | 733  | [Flood Fill](https://leetcode.com/problems/flood-fill/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0733_Flood_Fill.py) | Easy       |
-| 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |                                                              | Medium     |
+| 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0739_Daily_Temperatures.py) | Medium     |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0746_Min_Cost_Climbing_Stairs.py) | Easy       |
 | 875  | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0875_Koko_Eating_Bananas.py) | Medium     |
 | 876  | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0876_Middle_of_the_Linked_List.py) | Easy       |

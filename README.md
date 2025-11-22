@@ -159,7 +159,7 @@
 | 438  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0438_Find_All_Anagrams_in_a_String.py) | Medium     |
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0445_Add_Two_Numbers_II.py) | Medium     |
 | 494  | [Target Sum](https://leetcode.com/problems/target-sum/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0494_Target_Sum.py) | Medium     |
-| 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) |                                                              | Easy       |
+| 496  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0496_Next_Greater_Element_I.py) | Easy       |
 | 513  | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0513_Find_Bottom_Left_Tree_Value.py) | Medium     |
 | 516  | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0516_Longest_Palindromic_Subsequence.py) | Medium     |
 | 518  | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0518_Coin_Change_II.py) | Medium     |

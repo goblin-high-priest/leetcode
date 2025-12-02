@@ -1,0 +1,19 @@
+class Solution:
+    def findMaxValueOfEquation(self, points: List[List[int]], k: int) -> int:
+        q = deque()
+        res = -inf
+
+        for x, y in points:
+
+            while q and x - q[0][0] > k:
+                q.popleft()
+            
+            if q:
+                res = max(res, q[0][1] - q[0][0] + x + y)
+
+            while q and y - x >= q[-1][1] - q[-1][0]:
+                q.pop()
+            
+            q.append((x, y))
+            
+        return res

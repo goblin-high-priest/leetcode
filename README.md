@@ -172,6 +172,7 @@
 | 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0611_Valid_Triangle_Number.py) | Medium     |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0617_Merge_Two_Binary_Trees.py) | Easy       |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0621_Task_Scheduler.py) | Medium     |
+| 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) |                                                              | Easy       |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0647_Palindromic_Substrings.py) | Medium     |
 | 654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0654_Maximum_Binary_Tree.py) | Medium     |
 | 687  | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0687_Longest_Univalue_Path.py) | Medium     |

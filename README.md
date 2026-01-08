@@ -228,6 +228,7 @@
 | 2080 | [Range Frequency Queries](https://leetcode.com/problems/range-frequency-queries/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2080_Range_Frequency_Queries.py) | Medium     |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2090_K_Radius_Subarray_Averages.py) | Medium     |
 | 2105 | [Watering Plants II](https://leetcode.com/problems/watering-plants-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2105_Watering_Plants_II.py) | Medium     |
+| 2156 | [Find Substring With Given Hash Value](https://leetcode.com/problems/find-substring-with-given-hash-value/) |                                                              | Hard       |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2187_Minimum_Time_to_Complete_Trips.py) | Medium     |
 | 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2246_Longest_Path_With_Different_Adjacent_Characters.py) | Hard       |
 | 2266 | [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/2266_Count_Number_of_Texts.py) | Medium     |

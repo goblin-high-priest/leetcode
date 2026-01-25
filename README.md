@@ -189,6 +189,7 @@
 | 889  | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0889_Construct_Binary_Tree_from_Preorder_and_Postorder_Traversal.py) | Medium     |
 | 901  | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0901_Online_Stock_Span.py) | Medium     |
 | 904  | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0904_Fruit_Into_Baskets.py) | Medium     |
+| 930  | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) |                                                              | Medium     |
 | 938  | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0938_Range_Sum_of_BST.py) | Easy       |
 | 968  | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0968_Binary_Tree_Cameras.py) | Hard       |
 | 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0973_K_Closest_Points_to_Origin.py) | Medium     |

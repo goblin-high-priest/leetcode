@@ -178,6 +178,7 @@
 | 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0643_Maximum_Average_Subarray_I.py) | Easy       |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0647_Palindromic_Substrings.py) | Medium     |
 | 654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0654_Maximum_Binary_Tree.py) | Medium     |
+| 658  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) |                                                              | Medium     |
 | 687  | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0687_Longest_Univalue_Path.py) | Medium     |
 | 713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0713_Subarray_Product_Less_Than_K.py) | Medium     |
 | 714  | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.py) | Medium     |

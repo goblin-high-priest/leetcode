@@ -175,7 +175,7 @@
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0617_Merge_Two_Binary_Trees.py) | Easy       |
 | 621  | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0621_Task_Scheduler.py) | Medium     |
 | 632  | [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0632_Smallest_Range_Covering_Elements_from_K_Lists.py) | Hard       |
-| 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) |                                                              | Medium     |
+| 633  | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0633_Sum_of_Square_Numbers.py) | Medium     |
 | 643  | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0643_Maximum_Average_Subarray_I.py) | Easy       |
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0647_Palindromic_Substrings.py) | Medium     |
 | 654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0654_Maximum_Binary_Tree.py) | Medium     |

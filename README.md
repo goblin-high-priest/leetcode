@@ -145,6 +145,7 @@
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0300_Longest_Increasing_Subsequence.py) | Medium     |
 | 309  | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.py) | Medium     |
 | 310  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0310_Minimum_Height_Trees.py) | Medium     |
+| 312  | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) |                                                              | Hard       |
 | 322  | [Coin Change](https://leetcode.com/problems/coin-change/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0322_Coin_Change.py) | Medium     |
 | 323  | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0323_Number_of_Connected_Components_in_an_Undirected_Graph.py) | Medium     |
 | 337  | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0337_House_Robber_III.py) | Medium     |

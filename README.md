@@ -106,7 +106,7 @@
 | 188  | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0188_Best_Time_to_Buy_and_Sell_Stock_IV.py) | Hard       |
 | 190  | [Reverse Bits](https://leetcode.com/problems/reverse-bits/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0190_Reverse_Bits.py) | Easy       |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0191_Number_of_1_Bits.py) | Easy       |
-| 198  | [House Robber](https://leetcode.com/problems/house-robber/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0198_House_Robber.py) | Medium     |
+| 198  | [House Robber](https://leetcode.com/problems/house-robber/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0198_House_Robber.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0198_House_Robber.java) | Medium     |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0199_Binary_Tree_Right_Side_View.py) | Medium     |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0200_Number_of_Islands.py) | Medium     |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0202_Happy_Number.py) | Easy       |

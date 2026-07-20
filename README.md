@@ -192,7 +192,7 @@
 | 739  | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0739_Daily_Temperatures.py) | Medium     |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0746_Min_Cost_Climbing_Stairs.py) | Easy       |
 | 752  | [Open the Lock](https://leetcode.com/problems/open-the-lock/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0752_Open_the_Lock.py) | Medium     |
-| 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/) |                                                              | Medium     |
+| 763  | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0763_Partition_Labels.py) | Medium     |
 | 778  | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0778_Swim_in_Rising_Water.py) | Hard       |
 | 787  | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0787_Cheapest_Flights_Within_K_Stops.py) | Medium     |
 | 832  | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0832_Flipping_an_Image.py) | Easy       |

@@ -183,7 +183,7 @@
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0647_Palindromic_Substrings.py) | Medium     |
 | 654  | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0654_Maximum_Binary_Tree.py) | Medium     |
 | 658  | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0658_Find_K_Closest_Elements.py) | Medium     |
-| 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) |                                                              | Medium     |
+| 678  | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0678_Valid_Parenthesis_String.py) | Medium     |
 | 687  | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0687_Longest_Univalue_Path.py) | Medium     |
 | 703  | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0703_Kth_Largest_Element_in_a_Stream.py) | Easy       |
 | 713  | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0713_Subarray_Product_Less_Than_K.py) | Medium     |

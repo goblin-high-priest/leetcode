@@ -79,6 +79,7 @@
 | 130  | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0130_Surrounded_Regions.py) | Medium     |
 | 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0131_Palindrome_Partitioning.py) | Medium     |
 | 133  | [Clone Graph](https://leetcode.com/problems/clone-graph/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0133_Clone_Graph.py) | Medium     |
+| 138  | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) |                                                              | Medium     |
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0139_Word_Break.py) | Medium     |
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0141_Linked_List_Cycle.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0141_Linked_List_Cycle.java) | Easy       |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0142_Linked_List_Cycle_II.py) | Medium     |

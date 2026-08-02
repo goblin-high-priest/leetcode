@@ -27,6 +27,7 @@
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0036_Valid_Sudoku.py) | Medium     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0039_Combination_Sum.py) | Medium     |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0042_Trapping_Rain_Water.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0042_Trapping_Rain_Water.java) | Hard       |
+| 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |                                                              | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0046_Permutations.py) | Medium     |
 | 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0048_Rotate_Image.py) | Medium     |
 | 49   | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0049_Group_Anagrams.py) | Medium     |

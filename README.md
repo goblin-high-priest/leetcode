@@ -176,6 +176,7 @@
 | 542  | [01 Matrix](https://leetcode.com/problems/01-matrix/)        | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0542_01_Matrix.py) | Medium     |
 | 543  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0543_Diameter_of_Binary_Tree.py) | Easy       |
 | 557  | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0557_Reverse_Words_in_a_String_III.py) | Easy       |
+| 567  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) |                                                              | Medium     |
 | 572  | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0572_Subtree_of_Another_Tree.py) | Easy       |
 | 611  | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0611_Valid_Triangle_Number.py) | Medium     |
 | 617  | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0617_Merge_Two_Binary_Trees.py) | Easy       |

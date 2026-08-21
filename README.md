@@ -145,7 +145,7 @@
 | 275  | [H-Index II](https://leetcode.com/problems/h-index-ii/)      | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0275_H-Index_II.py), [JavaScript](https://github.com/goblin-high-priest/leetcode/blob/master/javascript/0275_H-Index_II.js) | Medium     |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0278_First_Bad_Version.py) | Easy       |
 | 279  | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0279_Perfect_Squares.py) | Medium     |
-| 286  | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) |                                                              | Medium     |
+| 286  | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0286_Walls_and_Gates.py) | Medium     |
 | 295  | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0295_Find_Median_from_Data_Stream.py) | Hard       |
 | 297  | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0297_Serialize_and_Deserialize_Binary_Tree.py) | Hard       |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0300_Longest_Increasing_Subsequence.py) | Medium     |

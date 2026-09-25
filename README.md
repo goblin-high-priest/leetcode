@@ -165,6 +165,7 @@
 | 377  | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0377_Combination_Sum_IV.py) | Medium     |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)    | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0383_Ransom_Note.py) | Easy       |
 | 409  | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0409_Longest_Palindrome.py) | Easy       |
+| 412  | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)        |                                                              | Easy       |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0416_Partition_Equal_Subset_Sum.py) | Medium     |
 | 417  | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0417_Pacific_Atlantic_Water_Flow.py) | Medium     |
 | 424  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0424_Longest_Repeating_Character_Replacement.py) | Medium     |

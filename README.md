@@ -220,7 +220,7 @@
 | 917  | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0917_Reverse_Only_Letters.py) | Easy       |
 | 923  | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0923_3Sum_With_Multiplicity.py) | Medium     |
 | 930  | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0930_Binary_Subarrays_With_Sum.py) | Medium     |
-| 933  | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) |                                                              | Easy       |
+| 933  | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0933_Number_of_Recent_Calls.py) | Easy       |
 | 938  | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0938_Range_Sum_of_BST.py) | Easy       |
 | 948  | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0948_Bag_of_Tokens.py) | Medium     |
 | 968  | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0968_Binary_Tree_Cameras.py) | Hard       |

@@ -229,7 +229,7 @@
 | 987  | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0987_Vertical_Order_Traversal_of_a_Binary_Tree.py) | Hard       |
 | 992  | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0992_Subarrays_with_K_Different_Integers.py) | Hard       |
 | 994  | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0994_Rotting_Oranges.py) | Medium     |
-| 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) |                                                              | Easy       |
+| 997  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0997_Find_the_Town_Judge.py) | Easy       |
 | 1000 | [Minimum Cost to Merge Stones](https://leetcode.com/problems/minimum-cost-to-merge-stones/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/1000_Minimum_Cost_to_Merge_Stones.py) | Hard       |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/1004_Max_Consecutive_Ones_III.py) | Medium     |
 | 1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/1019_Next_Greater_Node_In_Linked_List.py) | Medium     |

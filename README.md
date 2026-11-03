@@ -26,6 +26,7 @@
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium     |
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0036_Valid_Sudoku.py) | Medium     |
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0039_Combination_Sum.py) | Medium     |
+| 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0040_Combination_Sum_II.py) | Medium     |
 | 42   | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0042_Trapping_Rain_Water.py), [Java](https://github.com/goblin-high-priest/leetcode/blob/master/java/0042_Trapping_Rain_Water.java) | Hard       |
 | 43   | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0043_Multiply_Strings.py) | Medium     |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)  | [Python](https://github.com/goblin-high-priest/leetcode/blob/master/python/0046_Permutations.py) | Medium     |
